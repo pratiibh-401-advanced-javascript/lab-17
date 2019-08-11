@@ -5,8 +5,8 @@
 ### Authors: Jeremy Lee, Joseph Hangarter, Pratiibh Bassi
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
-* [travis](http://xyz.com)
+* [submission PR](https://github.com/pratiibh-401-advanced-javascript/lab-17/pull/1)
+* [travis](https://www.travis-ci.com/pratiibh-401-advanced-javascript/lab-17/builds/122703733)
 
 ### Modules
 #### `app.js`
