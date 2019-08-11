@@ -1,0 +1,23 @@
+{
+  "name": "lab-17",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest --verbose --coverage",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pratiibh-401-advanced-javascript/lab-17.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^23.6.0"
+  },
+  "bugs": {
+    "url": "https://github.com/pratiibh-401-advanced-javascript/lab-17/issues"
+  },
+  "homepage": "https://github.com/pratiibh-401-advanced-javascript/lab-17#readme"
+}
